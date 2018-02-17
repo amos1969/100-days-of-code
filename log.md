@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 17, 2018 
+**Today's Progress**: Working on the Tribute Page Challenge from freeCodeCamp
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I've committed to doing the 100 Days of Code Challenge. I want to learn some web technologies and refresh
+my existing knowledge of others.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I'm refreshing my knowledge of Django by starting to rebuild my own [website](http://dave-ames.net) which has been
+dormant for a while. My current plan is to use Django and Bootstrap for the site, and to host it on a Digital Ocean
+Droplet. To do this however I need to refresh my knowledge of Django which I last did in anger about 8-9 years ago, I
+also need to get up to speed with Bootstrap, which I've only fumbled my way through so far.
 
-**Link to work:** [Calculator App](http://www.example.com)
+As a result I'm currently working through freeCodeCamp's tutorials and have reached the section which asks you to build
+your own [Tribute Page](https://www.freecodecamp.org/challenges/build-a-tribute-page) which I've started doing using the
+CodePen site thing it asks you to use. Currently doing a Tribute Page to Freeborn John (John Lilburne) who was the
+leader of the Levellers during the English Civil War. I'll finish that and try to finish the Django Tutorial today. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Tribute Page](https://codepen.io/amos1969/full/xYPqPo/)
