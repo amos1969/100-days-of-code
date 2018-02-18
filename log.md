@@ -19,3 +19,16 @@ leader of the Levellers during the English Civil War. I'll finish that and try t
 Tribute Page now completed. On to finish off the Django Tutorial.
 
 **Link to work:** [Tribute Page](https://codepen.io/amos1969/full/xYPqPo/)
+
+### Day 2: February 18, 2018
+**Today's Progress**: Started work on Portfolio Page Challenge from freeCodeCamp
+
+**Thoughts** I haven't had anywhere near as much time to work on stuff today, but have started the Portfolio Page
+Challenge from freeCodeCamp.
+
+I've created the beginnings of the page and currently have a navBar and jumbotron set up. I've been using the W3Schools
+Bootstrap4 Tutorial to help with the parts of Bootstrap I don't already know.
+
+Didn't get much further with the Django Tutorial last night. Hopefully will get a chance to look at it tomorrow.
+
+**Link to work:** [Portfolio Page](https://github.com/amos1969/portfolio)
