@@ -32,3 +32,31 @@ Bootstrap4 Tutorial to help with the parts of Bootstrap I don't already know.
 Didn't get much further with the Django Tutorial last night. Hopefully will get a chance to look at it tomorrow.
 
 **Link to work:** [Portfolio Page](https://github.com/amos1969/portfolio)
+
+### Day 3: February 19, 2018
+**Today's Progress**: Completed work on Portfolio Page Challenge from freeCodeCamp
+
+**Thoughts** Worked my way through the rest of the Portfolio Page. Added some Font Awesome Icons for the social media
+  links, found a forked copy of the Github Repo with a Steemit one included, so cloned that and stored it locally, to
+  access for the page, not sure how that will work on the CodePen version. Didn't have any time to look at the Django
+  version of the tutorial today. [Github Repo](https://github.com/amos1969/portfolio)
+
+**Link to work:** [Portfolio Page](https://codepen.io/amos1969/full/EQExKV/)
+
+### Day 4: February 20th, 2018
+**Today's Progress**: Fairly minimal due to lots of other commitments
+
+**Thoughts:** Ended up spending a few hours looking at reveal.js and playing with the code to get something I was happy
+to use as a presentation. Sort of work but not.
+
+**Link to work:** [Presentation](http://dave-ames.net/presentation/)
+
+
+### Day 5: February 21st, 2018
+**Today's Progress**: Fairly minimal due to lots of other commitments, namely teaching 6 hours of OOP using Python
+
+**Thoughts:** Ended up spending a few hours looking at some of the Javascript stuff related to Pandoc and reveal.js to
+get an even snazzier presentation than yesterday's effort. I played with the code to get something I was even happier to
+use as a presentation.
+
+**Link to work:** Still a work in progress.
