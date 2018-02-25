@@ -60,3 +60,35 @@ get an even snazzier presentation than yesterday's effort. I played with the cod
 use as a presentation.
 
 **Link to work:** Still a work in progress.
+
+### Day 6: February 22nd. 2018
+**Today's Progress**: I spent the day preparing for an interview so didn't learn much that was new
+
+**Thoughts:** I did however have to prepare a presentation for the interview on Friday. I wrote it using Markdown, then
+used Pandoc to convert it to a Reveal.js presentation. Which I was then able to tinker with using javascript, html and
+css wizardry to make it look a bit better. Still frustrating though as I wanted to do some coding but there wasn't time
+to do it properly.
+  
+
+**Link to work:** Will commit it to github when I get a chance.
+
+### Day 7: February 23nd. 2018
+**Today's Progress**: I spent the day travelling too and from London for an interview
+
+**Thoughts:** Today was a deadloss as I had no opportunity to do any coding and from leaving the house, travelling,
+being interviewed and travelling back I spent 14 hours moving so didn't do any more when I got in.  
+
+**Link to work:** N/A
+
+### Day 8: Febrary 24th, 2018
+**Today's Progress:** I managed to work through about 40 basic Jacascript challenges on freeCodeCamp
+
+**Thoughts:** I didn't realise that Javascript had both the mixed use of quote marks that Python has, and arrays that
+aren't homogenous. Is it because the take var types which are treated as the same data types or is it much more like
+duck typed Python?
+
+**Link to work:** [freeCOdeCamp](https://www.freecodecamp.org/amos1969)
+
+
+
+
