@@ -89,6 +89,21 @@ duck typed Python?
 
 **Link to work:** [freeCOdeCamp](https://www.freecodecamp.org/amos1969)
 
+### Day 9: February 25th, 2018
+**Today's Progress:** I've completed 75 of the Javascript challenges on freeCodeCamp
+
+**Thoughts:** Well, I've spent a couple more hours today going through the freeCodeCamp coding challenges. I managed 75
+of the JavaScript ones, which isn't bad going. I've learnt about Javascript objects which was new and creating
+Constructors in Javascript to create them (not sure if these are Javascript classes or if that is another part) they
+also seem related to json which is a data format I've worked with in the past from Python. 
+
+I've moved onto some more technical open-ended tasks, where the challenge is to get the automated tests to pass in
+whatever way works. 
+
+Today has been a lot less fraught than the last few in terms of time, so happier with my progress.
+
+**Link to work:** [freeCodeCamp - amos1969 Profile](https://www.freecodecamp.org/amos1969)
+
 
 
 
