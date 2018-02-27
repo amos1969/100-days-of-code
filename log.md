@@ -104,6 +104,24 @@ Today has been a lot less fraught than the last few in terms of time, so happier
 
 **Link to work:** [freeCodeCamp - amos1969 Profile](https://www.freecodecamp.org/amos1969)
 
+### Day 10: February 26th, 2018
+**Today's Progress:** I completed another 6 of the tougher Javascript challenges in about an hour
+
+**Thoughts:** I've moved on to the more open ended challenges, some of which have left me scratching my head. Often
+I know an obvious way to solve them in a language like Python, but using Javascript is part of my raison-d'etre for the
+whole escapade, and I'm quite enjoying the learning something new aspect of it all.
+
+**Link to work:** [freeCodeCamp - amos1969 Profile](https://www.freecodecamp.org/amos1969)
+
+### Day 11: February 27th, 2018
+**Today's Progress:** Finished off the Basic Algorithm Scripting Challenges
+
+**Thoughts:** Some of the solutions were incredibly straightforward, some were slightly more problematical. Even then
+I'm not always sure my solutions are efficient, when using Javascript. The final challenge involved writing a ROT13
+function to do Caesar Ciphers with.
+
+**Link to work:** [freeCodeCamp - amos1969 Profile](https://www.freecodecamp.org/amos1969)
+
 
 
 
