@@ -122,6 +122,31 @@ function to do Caesar Ciphers with.
 
 **Link to work:** [freeCodeCamp - amos1969 Profile](https://www.freecodecamp.org/amos1969)
 
+### Day 12: February 28th, 2018
+**Today's Progress:** Finished the section on JSON, APIs and Ajax today
+
+**Thoughts:** I had very little time to actually complete today's coding challenges, but luckily they didn't take too
+long. I spent the rest of my time reading through some of the Django Documentation. One thing I did notice though was
+that the challenges didn't actually use Ajax at all.
+
+**Link to work:** [freeCodeCamp - amos1969 Profile](https://www.freecodecamp.org/amos1969)
+
+
+### Day 13: March 1st, 2018
+**Today's Progress:** Started work on the Random Quotation Challenge to build a webpage.
+
+**Thoughts:** I managed to get it working, initially I canibalised one of the previous challenge pages to get my nav-bar
+and jumbotron working. Then I removed some of the content and added the Ajax/JSON stuff to get it to read random quotes
+from a webpage. I spent about 2 hours trying to get the button to work, only to find that I hadn't put the callback in
+the right section of the code.
+
+I need to get the twitter button working, add some nicer styling to the page, add some content to the page footer I've
+added and probably make this and the Portfolio Page into one site (maybe host it on
+[Dave-Ames.net](http://dave-ames.net/) too). Currently the code is living in a
+[Github Repo](https://github.com/amos1969/random-quotes) and can be seen in action at a
+[Github.io](https://amos1969.github.io/random-quotes/) Page.
+
+**Link to work:** [Github Repo](https://github.com/amos1969/random-quotes)
 
 
 
