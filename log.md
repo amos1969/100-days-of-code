@@ -148,5 +148,16 @@ added and probably make this and the Portfolio Page into one site (maybe host it
 
 **Link to work:** [Github Repo](https://github.com/amos1969/random-quotes)
 
+### Day 14: March 2nd, 2018
+**Today's Progress:** Spent a couple of hours today playing with the Pixi Javascript Library
+
+**Thoughts:** This seems like a reasonably straightforward library to use to write games. I haven't spent very long with
+it yet (a couple of hours), but have been working through a basic tutorial, so far. This has involved creating a WebGL
+Canvas and loading in sprites, resizing them, rotating them and setting their position. I've also looked at how to load
+sprites from a single tileset. I also spent some time looking at an editor for creating these single image files from a
+folder full of images, and creating a JSON object to manage these. 
+
+
+**Link to work:** [Github Repository](https://github.com/amos1969/pixie-ships)
 
 
