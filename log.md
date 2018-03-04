@@ -160,4 +160,17 @@ folder full of images, and creating a JSON object to manage these.
 
 **Link to work:** [Github Repository](https://github.com/amos1969/pixie-ships)
 
+### Day 15: March 3rd, 2018
+**Today's Progress:** Finished the Random Quote Page Project from freeCodeCamp
+
+**Thoughts:** Added some code to make a new window appear, when the button is pressed. This page is part of the Twitter
+website and takes the content of the quote, placing it in a text box along with a couple of hash tags. If the user then
+clicks on Tweet it will tweet this using their own twitter account assuming they're logged in to twitter in this
+browser. Also added a background image to the whole page, and a coloured background (that has opacity 0.4) to the
+jumbotron. I quite like the resulting effect (I've rounded the bottom two corners of the jumbotron too). Github version
+of the code, lives here: [Github Repo](https://github.com/amos1969/random-quotes), the Github.io page is here:
+[Github.io](https://amos1969.github.io/random-quotes/) and the CodePen is here
+[CodePen](https://codepen.io/amos1969/pen/zRXMbr)
+
+**Link to work:** [Github Repo](https://github.com/amos1969/random-quotes)
 
